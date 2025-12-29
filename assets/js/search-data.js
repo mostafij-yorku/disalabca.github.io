@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-understanding-llm-alignment-for-code-generation-a-practical-guide",
+        
+          title: "Understanding LLM Alignment for Code Generation: A Practical Guide",
+        
+        description: "A practical guide to understanding key concepts in LLM alignment for code generation tasks, including alignment pathways and functional vs non-functional requirements",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/understanding-llm-alignment-code-generation/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         

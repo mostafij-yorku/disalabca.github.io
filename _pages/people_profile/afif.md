@@ -31,10 +31,11 @@ social_links:
   github_username: afifaniks
   linkedin_username: afifaniks
   scholar_userid: XuauQRIAAAAJ
-  website_url: https://afif.me
 ---
 
 I am Afif, a graduate student at the <a href='https://ucalgary.ca'>University of Calgary</a>, supervised by <a href='https://giasuddin.ca/'>Dr. Gias Uddin</a> and working with <a href='https://casweb.59b0587b.public.multi-containers.ibm.com/ibm/cas/canada/'>IBM CAS Canada</a>. I also serve as a Graduate Assistant in Research & Teaching at UCalgary. Alongside my studies, I am currently working as an intern at <a href='https://ibm.com'>IBM Canada</a> through <a href='https://www.mitacs.ca/'>Mitacs Accelerate</a>. My current research centers on Large Language Models and Software Engineering, areas I am deeply passionate about. Before my graduate studies, I worked for several years as a Software Engineer specializing in AI. During this time, I had the opportunity to contribute to various cutting-edge projects across different domains. I was also honored with a gold medal upon receiving my Bachelor of Science degree.
+
+Homepage: https://afif.me
 
 ## Awards & Honors
 
@@ -76,11 +77,6 @@ I am Afif, a graduate student at the <a href='https://ucalgary.ca'>University of
   *Saad Ashraf, **Md Afif Al Mamun**, Mumu Akter, Roberto Souza, Mariana Bento*  
   Reconstruction and Imaging Motion Estimation (RIME), 2025.  
   Investigates domain generalization strategies to improve robustness of motion mitigation models across multi-center MRI datasets.
-
-- **Neonatal Brain MRI Motion Correction using Adult MRI**  
-  *Saad Bin Ashraf, **Md Afif Al Mamun**, Mumu Akter, Roberto Souza, Mariana Bento*  
-  International Society for Magnetic Resonance in Medicine (ISMRM), 2024.  
-  Explores transfer learning approaches for motion correction in neonatal MRI using adult MRI data.
 
 - **TLNet: A Deep CNN Model for Prediction of Tomato Leaf Diseases**  
   *Md Afif Al Mamun, Dewan Ziaul Karim, Subroto Nag Pinku, Tasfia Anika Bushra*  
